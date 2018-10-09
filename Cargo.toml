@@ -1,7 +1,7 @@
 [package]
 name = "rustan"
 version = "0.1.0"
-authors = ["piroyoung <rocky.obake@gmail.com>"]
+authors = ["Hiroki Mizukami"]
 
 [dependencies]
 ndarray = "0.11.0"
