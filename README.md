@@ -1,2 +1,2 @@
 # rustan
-わろちw
+Rustan is Rust library for Bayesian analysis.
